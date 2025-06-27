@@ -10,16 +10,12 @@ Setup Instructions: git clone https://github.com/thobanizondi/Logistics-Performa
 -Apply transformations
 -Create insights-driven dashboards
 
-Order Status Visualization
-- Create a dynamic visual that categorizes orders by status: On Time, Late, and Not Delivered. This helps stakeholders quickly assess delivery performance and service reliability.
-Top 5 Client Performance Analysis
--Identify your top five clients by volume or revenue, then evaluate their delivery success rates. This reveals how well your service aligns with high-value relationships.
-Root Cause of Late Deliveries
--Drill into late orders to uncover patterns—by region, carrier, or product type. Use filters and slicers to empower users to explore the “why” behind delays.
-Annual Order Distribution
--Visualize order trends across the year using line or area charts. This helps detect seasonality, peak periods, and potential forecasting opportunities.
-Annual Carriers Distribution
--Visualize Carriers trends across the year using line or area charts. This helps detect seasonality, peak periods, and potential forecasting opportunities.
+User Cases
+-Order Status Visualization
+-Top 5 Client Performance Analysis
+-Root Cause of Late Deliveries
+-Annual Order Distribution
+-Annual Carriers Distribution
 
 Dashboard Features
 -Revenue
